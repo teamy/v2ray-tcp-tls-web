@@ -311,7 +311,7 @@ set_v2ray_wss() {
   \"settings\": {
     \"clients\": [{
       \"id\": \"${uuid_wss}\",
-      \"alterId\": 2
+      \"alterId\": 0
       }]
     },
   \"streamSettings\": {
